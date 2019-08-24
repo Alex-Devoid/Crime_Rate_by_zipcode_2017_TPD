@@ -1,4 +1,4 @@
-{
+var cityData={
   "type": "FeatureCollection",
   "name": "population_and_crime_zip_2017",
   "features": [
